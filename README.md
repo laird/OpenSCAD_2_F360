@@ -14,9 +14,10 @@ TODO:
 * Includes language choice
 * Get OpenSCAD samples translated to python or JS Fusion script to start define mapping
 * Create modules for mapping to standard operations in OpenSCAD (list here)
+* Fusion object model is mapped to JavaScript now, Python on the 8th, C++ early next year.
+* Perhaps use Solid Python to do the mapping from Fusion to OpenSCAD?
  
 Reference:
 * Fusion 360 PDF of object model: http://help.autodesk.com/cloudhelp/ENU/Fusion-360-API/images/Fusion.pdf
 * Handomatic: http://e-nable.youmagine.com
 * Solid Python: https://github.com/SolidCode/SolidPython
-* 
